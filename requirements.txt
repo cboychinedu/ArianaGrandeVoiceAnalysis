@@ -1,0 +1,7 @@
+pydub
+tensorflow 
+librosa 
+sounddevice
+SoundFile
+matplotlib
+numba==0.48 
